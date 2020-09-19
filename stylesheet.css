@@ -93,7 +93,7 @@ body {
     color: #FFF;
     font-size: 16px;
     border-left:solid 10px #C00;
-    background: #F90 url(../images/_h2.jpg)right top;
+    background: #F90 url(../images/_h2.jpg)right top repeat-y;
 }
 #main p {
     margin: 0;
@@ -160,7 +160,7 @@ body {
     border-left: solid 1px #C36;
     background: #fff;
 }
-#side .boxBody ul {
+#side .box .boxBody ul {
     margin: 0 0 16px 0;
     padding: 0;
 }
